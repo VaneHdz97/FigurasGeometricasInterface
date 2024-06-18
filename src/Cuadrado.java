@@ -1,8 +1,8 @@
+
 public class Cuadrado implements FiguraGeometrica{
 	private String name;
 	private double lado;
 	public Cuadrado(String name, double lado) {
-		super();
 		this.name = name;
 		this.lado = lado;
 	}//constructor
@@ -24,6 +24,7 @@ public class Cuadrado implements FiguraGeometrica{
 	public void setLado(double lado) {
 		this.lado = lado;
 	}//setLado
+	
 	@Override
 	public String toString() {
 		return "Cuadrado [name=" + name + ", lado=" + lado + "]";
