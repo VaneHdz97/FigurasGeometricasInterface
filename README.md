@@ -1,6 +1,6 @@
 # FigurasGeometricasInterface
 
-## Se desarrollaron las clases de las figuras geométricas para poder utilizr una interface que ayude a mostrar el área y perímetro de las mismas:
+## Se desarrollaron las clases de las figuras geométricas para poder utilizar una interface que ayude a mostrar el área y perímetro de las mismas:
 
 
 1. Triángulo
